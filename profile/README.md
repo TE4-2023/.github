@@ -1,7 +1,5 @@
 ## Teknik fjärde året 2023
 
-Används för annan kod.
-
 <!--
 
 **Here are some ideas to get you started:**
